@@ -1,3 +1,4 @@
+//ho gya phla change in github.....
 function prime()
 {
     var  number =Number(process.argv[2])
